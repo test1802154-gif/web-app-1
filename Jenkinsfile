@@ -4,7 +4,7 @@ pipeline {
     environment {
         DOCKER_USER  = 'shaffat01'
         APP_NAME     = 'web-app-1'
-        NOTIFY_EMAIL = 'your-email@gmail.com' // ⚠️ তোমার জিমেইল আইডি দাও
+        NOTIFY_EMAIL = 'test1802154@gmail.com' // ⚠️ তোমার জিমেইল আইডি দাও
     }
 
     stages {
